@@ -12,16 +12,10 @@
 
 > **Note:** Our team has four members with the instructor's approval.
 
----
-
 ## Repository Structure
 
 - PacketTracer/
 - Screenshots/
-- Report/
-
----
-
 ## Phase 1 Progress
 
 ### Completed
@@ -43,8 +37,6 @@
 - Phase 1 completed.
 - Report is being finalized.
 - Screenshots are being reviewed before submission.
-
----
 
 ## Team Members Contribution
 
@@ -71,8 +63,6 @@
 - Helped with testing.
 - Prepared screenshots and documentation.
 
----
-
 ## Working Rules
 
 - Everyone works on her assigned task.
@@ -80,8 +70,6 @@
 - Use simple and clear commit messages.
 - Do not overwrite another member's work without discussing it first.
 - Review the project before pushing major changes.
-
----
 
 ## Next Phase
 
