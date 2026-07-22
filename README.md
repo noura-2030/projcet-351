@@ -14,7 +14,6 @@
 ## Repository Structure
 
 - PacketTracer/
-- Report/
 - Screenshots/
 ## Phase 1 Progress
 ### Completed
